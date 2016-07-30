@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0730"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "162A2C081D4C907A0075B137"
+               BuildableName = "TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;.app"
+               BlueprintName = "TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;"
+               ReferencedContainer = "container:TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "162A2C211D4C907B0075B137"
+               BuildableName = "TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;Tests.xctest"
+               BlueprintName = "TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;Tests"
+               ReferencedContainer = "container:TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "162A2C2C1D4C907B0075B137"
+               BuildableName = "TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;UITests.xctest"
+               BlueprintName = "TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;UITests"
+               ReferencedContainer = "container:TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "162A2C081D4C907A0075B137"
+            BuildableName = "TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;.app"
+            BlueprintName = "TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;"
+            ReferencedContainer = "container:TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "162A2C081D4C907A0075B137"
+            BuildableName = "TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;.app"
+            BlueprintName = "TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;"
+            ReferencedContainer = "container:TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "162A2C081D4C907A0075B137"
+            BuildableName = "TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;.app"
+            BlueprintName = "TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;"
+            ReferencedContainer = "container:TablViewCell&#x89c6;&#x89c9;&#x9519;&#x8bef;&#x52a8;&#x753b;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
