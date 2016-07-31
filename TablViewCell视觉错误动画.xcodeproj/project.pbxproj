@@ -15,6 +15,8 @@
 		162A2C1C1D4C907A0075B137 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 162A2C1A1D4C907A0075B137 /* LaunchScreen.storyboard */; };
 		162A2C271D4C907B0075B137 /* TablViewCell______Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 162A2C261D4C907B0075B137 /* TablViewCell______Tests.m */; };
 		162A2C321D4C907B0075B137 /* TablViewCell______UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 162A2C311D4C907B0075B137 /* TablViewCell______UITests.m */; };
+		162A2C441D4C91EF0075B137 /* ADPerceiveErrorCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 162A2C431D4C91EF0075B137 /* ADPerceiveErrorCell.m */; };
+		162A2C461D4C91FF0075B137 /* ADPerceiveErrorCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 162A2C451D4C91FF0075B137 /* ADPerceiveErrorCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,9 @@
 		162A2C2D1D4C907B0075B137 /* TablViewCell视觉错误动画UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TablViewCell视觉错误动画UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		162A2C311D4C907B0075B137 /* TablViewCell______UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "TablViewCell______UITests.m"; sourceTree = "<group>"; };
 		162A2C331D4C907B0075B137 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		162A2C421D4C91EF0075B137 /* ADPerceiveErrorCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADPerceiveErrorCell.h; sourceTree = "<group>"; };
+		162A2C431D4C91EF0075B137 /* ADPerceiveErrorCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADPerceiveErrorCell.m; sourceTree = "<group>"; };
+		162A2C451D4C91FF0075B137 /* ADPerceiveErrorCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ADPerceiveErrorCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +110,9 @@
 				162A2C101D4C907A0075B137 /* AppDelegate.m */,
 				162A2C121D4C907A0075B137 /* ViewController.h */,
 				162A2C131D4C907A0075B137 /* ViewController.m */,
+				162A2C451D4C91FF0075B137 /* ADPerceiveErrorCell.xib */,
+				162A2C421D4C91EF0075B137 /* ADPerceiveErrorCell.h */,
+				162A2C431D4C91EF0075B137 /* ADPerceiveErrorCell.m */,
 				162A2C151D4C907A0075B137 /* Main.storyboard */,
 				162A2C181D4C907A0075B137 /* Assets.xcassets */,
 				162A2C1A1D4C907A0075B137 /* LaunchScreen.storyboard */,
@@ -245,6 +253,7 @@
 			files = (
 				162A2C1C1D4C907A0075B137 /* LaunchScreen.storyboard in Resources */,
 				162A2C191D4C907A0075B137 /* Assets.xcassets in Resources */,
+				162A2C461D4C91FF0075B137 /* ADPerceiveErrorCell.xib in Resources */,
 				162A2C171D4C907A0075B137 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,6 +281,7 @@
 			files = (
 				162A2C141D4C907A0075B137 /* ViewController.m in Sources */,
 				162A2C111D4C907A0075B137 /* AppDelegate.m in Sources */,
+				162A2C441D4C91EF0075B137 /* ADPerceiveErrorCell.m in Sources */,
 				162A2C0E1D4C907A0075B137 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
